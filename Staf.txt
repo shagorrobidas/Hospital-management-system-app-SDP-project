@@ -1,0 +1,5 @@
+
+Name : A
+Age : 22
+Salary : 10000
+Working Position : cleanar
